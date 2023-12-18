@@ -1,0 +1,9 @@
+torch==2.1.2
+lightning==2.1.2
+einops>=0.4
+torchvision
+transformers
+sacrebleu
+sentencepiece
+wandb
+opencv-python
