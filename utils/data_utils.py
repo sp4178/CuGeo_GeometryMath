@@ -2,6 +2,7 @@ import re
 import cv2 as cv
 import numpy as np
 
+
 def process_image(img, min_side=224):
     # fill the diagram with a white background and resize it
     size = img.shape

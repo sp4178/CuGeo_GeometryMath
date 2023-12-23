@@ -7,3 +7,4 @@ sacrebleu
 sentencepiece
 wandb
 opencv-python
+peft
